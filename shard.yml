@@ -1,0 +1,12 @@
+name: warp-example
+version: 0.1.0
+
+authors:
+  - Rayner De Los Santos F. <raydf@perspectiva.io>
+
+license: MIT
+
+dependencies:
+  warp:
+    github: raydf/warp
+    branch: master
